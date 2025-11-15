@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e8df5,100:6ad7ff&height=180&section=header&text=Théo%20Linder&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e8df5,100:6ad7ff&height=180&section=header&text=Théo&fontSize=50&fontColor=ffffff" />
 </p>
 
 ## 👋 About Me
